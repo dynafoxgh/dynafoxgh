@@ -1,11 +1,14 @@
-<h1 align="center">Hey there! 👋</h1> 
-<h3 align="center">i do programming stuff</h3>
+<h1 align="center">Hey there! 👋</h1>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" href="https://twitter.com/DynaFox_"/>
+<a href="https://twitter.com/DynaFox_"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
 </p>
+<h3 align="center">i do programming stuff</h3>
 
-<h2 align="center">Languages and Tools</h2>
+<h2 align="center">About me</h2>
+<p align="center"><b>Timezone: </b>Europe/Brussels (CEST)</p>
+
+<h3 align="center">Languages and Tools</h3>
 
 <p align="center">
 <img src="icons/javascript.svg" alt="" width=32px/>
