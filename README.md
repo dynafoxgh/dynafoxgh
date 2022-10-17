@@ -3,7 +3,7 @@
 <p align="center">
 <a href="https://twitter.com/DynaFox_"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
 </p>
-<h3 align="center">i do programming stuff</h3>
+<p align="center">i do programming stuff</p>
 
 <h2 align="center">About me</h2>
 <p align="center"><b>Timezone: </b>Europe/Brussels (CEST)</p>
@@ -12,10 +12,12 @@
 
 <p align="center">
 <img src="icons/javascript.svg" alt="" width=32px/>
-<img src="icons/python.svg" alt="" width=32px/>
+<img src="icons/typescript.svg" alt="" width=32px/>
 <img src="icons/cpp.svg" alt="" width=32px/>
+<img src="icons/python.svg" alt="" width=32px/>
 <img src="icons/html.svg" alt="" width=32px/>
 <img src="icons/css.svg" alt="" width=32px/>
+<img src="icons/react_ts.svg" alt="" width=32px/>
 <!-- <img src="icons/electron.svg" alt="" width=32px/>
 <img src="icons/nodejs.svg" alt="" width=32px/> -->
 
