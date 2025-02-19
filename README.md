@@ -1,8 +1,5 @@
 <h1 align="center">Hey there! 👋</h1>
 
-<p align="center">
-<a href="https://twitter.com/DynaFox_"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
-</p>
 <p align="center">i do programming stuff</p>
 
 <h2 align="center">About me</h2>
