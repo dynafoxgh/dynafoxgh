@@ -5,7 +5,7 @@
 <h2 align="center">About me</h2>
 <p align="center"><b>Timezone: </b>Europe/Brussels (CEST)</p>
 
-<h3 align="center">Languages and Tools</h3>
+<!-- <h3 align="center">Languages and Tools</h3>
 
 <p align="center">
 <img src="icons/javascript.svg" alt="" width=32px/>
@@ -18,9 +18,9 @@
 <!-- <img src="icons/electron.svg" alt="" width=32px/>
 <img src="icons/nodejs.svg" alt="" width=32px/> -->
 
-</p>
+<!-- </p>
 <p align="center">
 <img src="icons/github.svg" alt="" width=32px/>
 <img src="icons/vscode.svg" alt="" width=32px/>
 <img src="icons/illustrator.svg" alt="" width=32px/>
-</p>
+</p>-->
